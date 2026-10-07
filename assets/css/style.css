@@ -55,13 +55,13 @@ main {
 
 .profile__name {
     color: var(--white);
-    font-size: clamp(16px, 2vw , 25px);
+    font-size: 1.5em;
     font-weight: 500;
 }
 
 .profile__location {
     color: var(--green);
-    font-size: 14px;
+    font-size: 0.9em;
     font-weight: 600;
     margin-block-start: 10px;
 }
