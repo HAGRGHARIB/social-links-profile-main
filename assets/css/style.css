@@ -48,7 +48,7 @@ main {
 }
 
 .profile__img {
-    width: 95px;
+    width: 80px;
     border-radius: 50%;
     padding-block: clamp(20px, 5vw, 30px);
 }
