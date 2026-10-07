@@ -108,3 +108,12 @@ main {
     color: black;
     cursor: pointer;
 }
+
+@media (min-width: 768px) {
+    .profile {
+        width: 400px;
+    }
+    .profile__social-links{
+        padding-inline: 35px;
+    }
+}
