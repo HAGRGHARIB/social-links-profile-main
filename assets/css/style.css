@@ -48,14 +48,14 @@ main {
 }
 
 .profile__img {
-    width: 80px;
+    width: 5em;
     border-radius: 50%;
     padding-block: clamp(20px, 5vw, 30px);
 }
 
 .profile__name {
     color: var(--white);
-    font-size: 25px;
+    font-size: clamp(16px, 2vw , 25px);
     font-weight: 500;
 }
 
