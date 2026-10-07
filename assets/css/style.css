@@ -48,7 +48,7 @@ main {
 }
 
 .profile__img {
-    width: 4.5em;
+    width: 5em;
     border-radius: 50%;
     padding-block: clamp(20px, 5vw, 30px);
 }
@@ -57,13 +57,13 @@ main {
     color: var(--white);
     font-size: 1.5em;
     font-weight: 500;
+    margin-block-end: 6px;
 }
 
 .profile__location {
     color: var(--green);
     font-size: 0.9em;
     font-weight: 600;
-    margin-block-start: 10px;
 }
 
 .profile__bio {
